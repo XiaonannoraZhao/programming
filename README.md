@@ -1,2 +1,2 @@
-# npm runn dev
+# npm run dev
 localhost:5000
