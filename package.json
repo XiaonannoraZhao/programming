@@ -1,0 +1,34 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "js-beautify": "^1.14.4",
+    "mongoose": "^6.4.0",
+    "mongose": "0.0.2-security",
+    "shortid": "^2.2.16",
+    "text-encoding": "^0.7.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaonannoraZhao/programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaonannoraZhao/programming/issues"
+  },
+  "homepage": "https://github.com/XiaonannoraZhao/programming#readme",
+  "keywords": []
+}
